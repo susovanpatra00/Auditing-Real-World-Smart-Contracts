@@ -1,4 +1,4 @@
-# Auditing-Real-World-Smart-Contracts
+# Auditing Real World Smart Contracts
 # CS731
 
 ## Installation steps for smart contract vulnerability tools :
